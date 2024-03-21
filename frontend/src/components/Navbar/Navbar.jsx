@@ -85,7 +85,7 @@ const Navbar = ({ isAuth, setIsAuth }) => {
               </a> */}
               <a
                 className="font-medium text-gray-500 hover:text-gray-400 md:py-6 dark:text-gray-400 dark:hover:text-gray-500"
-                href="https://github.com/gokulhans/codedrops" target='_blank'
+                href="https://github.com/sreenath256/CodeDrops" target='_blank'
               >
                 Github
               </a>
